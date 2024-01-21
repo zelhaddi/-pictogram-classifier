@@ -1,0 +1,5 @@
+cmake-build-debug
+.idea
+/.idea/misc.xml
+results_test
+results_final
